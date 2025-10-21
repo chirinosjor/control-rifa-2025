@@ -103,8 +103,7 @@ const quantityTouched = ref(false)
 
 // Your deployed Apps Script URL
 const scriptUrl =
-  'https://script.google.com/macros/s/AKfycbxbSGtGOnZMbrkYfKbZVAQ915uyu-T0EtH4Yb8XlntegLye-1S71BjENZ0p0QJn4qqWmA/exec'
-
+  'https://script.google.com/macros/s/AKfycbzyJkLPx4FKgig3mzrwUZOT81AjawwqJ23BQdkXOkTpbyWfj7QkoGOY1pFWb2922LNL0w/exec'
 const formRef = ref<HTMLFormElement>()
 
 const dateInputFormatted = computed({
